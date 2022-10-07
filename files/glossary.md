@@ -178,6 +178,10 @@ Read more about the history of Python here: https://www.geeksforgeeks.org/histor
 
 ## User Experience / Usability
 
+User Experience / Usability refers to how successfully a user can experience a product for a specific goal. User experience is the how the experience of the suer from end to end went. Meaning not just how well the product worked but also meeting their expectations prior.
+https://blog.hubspot.com/website/usability-vs-user-experience
+
+
 
 ## Open Educational Resources (OER)
 
